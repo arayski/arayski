@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Rayski
+Hi 👋 My name is Andrew Rayski
 =====================================================================================================================================
 
 I'm a passionate and dedicated Computer Science student at the University of Connecticut, concentrating in software design and development. My journey in coding began in high school and has since evolved into a deep interest in developing efficient and innovative software solutions. I'm constantly seeking new challenges and opportunities to enhance my skills.
